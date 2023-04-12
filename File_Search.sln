@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File_Search", "File_Search\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Computer_components", "Computer_components\Computer_components.csproj", "{6CAA2D59-86DC-4B49-B08A-59403ADC35C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextEditing", "TextEditing\TextEditing.csproj", "{CFEBD2FA-7F04-41FD-963F-36DDE0734E43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6CAA2D59-86DC-4B49-B08A-59403ADC35C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CAA2D59-86DC-4B49-B08A-59403ADC35C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CAA2D59-86DC-4B49-B08A-59403ADC35C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFEBD2FA-7F04-41FD-963F-36DDE0734E43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFEBD2FA-7F04-41FD-963F-36DDE0734E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFEBD2FA-7F04-41FD-963F-36DDE0734E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFEBD2FA-7F04-41FD-963F-36DDE0734E43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
